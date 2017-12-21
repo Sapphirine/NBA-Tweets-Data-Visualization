@@ -1,0 +1,744 @@
+,state,team,cnt,avg,povern
+1,North Carolina,pistons,34,0.19738125,7
+2,Tennessee,pacers,355,0.311893939,5.6
+3,Utah,rockets,235,0.04577957,2.1
+4,Mississippi,cavaliers,136,0.020180488,0.863636364
+5,New York,raptors,139,0.257430556,8
+6,Virginia,raptors,25,0.253753333,4
+7,Pennsylvania,kings,55,-0.129803571,0.555555556
+8,Texas,hornets,106,-0.14064375,0.066666667
+9,Texas,timberwolves,286,0.176880303,2.666666667
+10,Iowa,celtics,22,0.49905,3
+11,Kentucky,celtics,151,0.281368,5.25
+12,Utah,blazers,7,0.04785,1
+13,Colorado,nuggets,472,-0.083447619,0.647058824
+14,Indiana,kings,40,-0.194933333,0.5
+15,South Carolina,celtics,145,0.212851613,1.214285714
+16,Utah,knicks,22,0.03122,4
+17,Connecticut,warriors,64,0.380626923,12
+18,Colorado,grizzlies,16,0.154275,3
+19,Georgia,jazz,82,-0.110874359,0.181818182
+20,Kentucky,thunder,220,0.324444595,17.5
+21,New Mexico,sixers,157,-0.274976471,0.214285714
+22,Arkansas,cavaliers,172,-0.097972619,0.272727273
+23,Delaware,sixers,280,-0.397577574,0.014925373
+24,Iowa,jazz,13,-0.0602,0.333333333
+25,Massachusetts,pacers,520,0.260663553,4.055555556
+26,New Hampshire,pelicans,25,0.126094444,5
+27,Ohio,celtics,424,0.30317963,3.764705882
+28,Pennsylvania,warriors,202,0.011522794,1
+29,Oregon,thunder,169,0.491431667,6.5
+30,California,jazz,409,-0.140788697,0.474576271
+31,Ohio,timberwolves,55,0.287586364,4.5
+32,Arizona,suns,127,-0.147144737,0.727272727
+33,Arizona,timberwolves,58,0.305861538,12
+34,California,pelicans,784,-0.061260459,1.063157895
+35,Georgia,timberwolves,85,0.25471,1.5
+36,Indiana,jazz,31,-0.05395,0.333333333
+37,Kentucky,sixers,316,-0.321761268,0.290909091
+38,Arizona,celtics,415,0.242321569,3.636363636
+39,Maryland,thunder,424,0.387916667,6
+40,Ohio,nets,10,0.093825,1
+41,Tennessee,thunder,295,0.314310976,3.555555556
+42,Texas,wizards,85,0.064377083,1
+43,Florida,warriors,346,0.079889516,1.818181818
+44,Michigan,wizards,25,-0.209678571,0.166666667
+45,Minnesota,bulls,91,-0.112431579,0.9
+46,North Carolina,kings,22,0.06128,1.5
+47,Wisconsin,knicks,31,0.0288,2
+48,Minnesota,knicks,16,0.2598375,3
+49,Ohio,heat,58,0.197316667,3.5
+50,Pennsylvania,cavaliers,964,0.026272555,0.855555556
+51,Wisconsin,timberwolves,52,0.001244444,2
+52,Arizona,thunder,304,0.42224697,4.5
+53,Illinois,blazers,103,-0.320714286,0.166666667
+54,Michigan,grizzlies,16,0.254466667,2
+55,New Jersey,jazz,52,-0.26713125,0.142857143
+56,Oklahoma,jazz,94,-0.115171429,0.75
+57,Indiana,lakers,127,0.251564306,3.8
+58,Louisiana,knicks,49,0.103271429,2.5
+59,Minnesota,lakers,97,0.168926087,2.833333333
+60,North Carolina,pacers,628,0.224971111,4.25
+61,Rhode Island,sixers,58,-0.081885,0.666666667
+62,Utah,sixers,205,-0.27305625,0.263157895
+63,Maryland,warriors,154,-0.064061111,0.666666667
+64,Oklahoma,nuggets,61,0.06250625,1.666666667
+65,Oregon,kings,34,-0.122425,1
+66,Rhode Island,rockets,79,0.032286667,1.5
+67,West Virginia,pelicans,13,0.11575,2
+68,Indiana,bulls,157,0.057115789,1.235294118
+69,West Virginia,sixers,166,-0.318478049,0.138888889
+70,Georgia,hornets,121,-0.0145375,0.333333333
+71,Maine,celtics,88,0.288793333,4
+72,North Carolina,thunder,499,0.294558073,3.571428571
+73,Texas,pacers,2041,0.269705081,4.723404255
+74,Kansas,raptors,25,-0.000564583,1.666666667
+75,Kentucky,warriors,73,0.082391026,1.6
+76,North Carolina,hornets,685,-0.114437273,0.41025641
+77,Wisconsin,blazers,28,-0.1844,0.5
+78,Colorado,cavaliers,547,0.163666071,1.24
+79,Iowa,nuggets,1015,-0.095845833,1
+80,Kansas,lakers,175,0.058101852,0.8
+81,Michigan,raptors,19,-0.18219,0.666666667
+82,Maryland,hornets,16,0.010616667,0.5
+83,Virginia,warriors,178,0.11299359,2.545454545
+84,Alabama,bulls,22,0.25954,4
+85,Florida,pistons,181,0.207977273,5.285714286
+86,Missouri,pelicans,73,-0.029271795,1.6
+87,Nebraska,thunder,40,0.54675,4
+88,Ohio,thunder,559,0.321889778,2.947368421
+89,Alabama,pelicans,52,0.122438333,2.333333333
+90,California,cavaliers,3580,0.105014648,1.223744292
+91,Colorado,hawks,28,0.128275,1
+92,Illinois,rockets,1540,-0.02089432,1.23
+93,Nevada,sixers,472,-0.276712255,0.307692308
+94,Virginia,wizards,52,0.065833333,1
+95,District of Columbia,rockets,535,0.009104427,1.461538462
+96,Massachusetts,jazz,58,0.076054762,0.75
+97,Oregon,cavaliers,244,-0.008251316,0.652173913
+98,Delaware,celtics,16,0.05645,0.5
+99,Illinois,pacers,1012,0.187918426,3.363636364
+100,Illinois,timberwolves,160,0.130023913,2.285714286
+101,Minnesota,rockets,262,0.04566844,1.611111111
+102,Missouri,hawks,13,0.23935,1
+103,Indiana,thunder,1789,0.229327615,4.150684932
+104,Kansas,magic,22,-0.058375,1
+105,Nevada,cavaliers,421,0.083327083,0.8
+106,New York,pelicans,355,0.237022159,4.176470588
+107,Alaska,rockets,37,0.053542857,2.5
+108,Michigan,kings,22,0.2794,5
+109,California,timberwolves,310,0.341296154,15.25
+110,Georgia,sixers,985,-0.363979494,0.186335404
+111,Michigan,clippers,76,0.279009167,5.666666667
+112,Michigan,suns,25,0.0927,2
+113,Washington,hawks,10,0.151066667,2
+114,Indiana,raptors,13,0.058566667,2
+115,Massachusetts,hornets,28,0.0553,0.5
+116,South Dakota,blazers,7,-0.133125,1
+117,North Carolina,nuggets,37,-0.317557143,0.4
+118,South Dakota,thunder,16,0.4440875,3
+119,District of Columbia,pelicans,25,0.286128571,6
+120,New York,lakers,640,0.102400546,1.837209302
+121,Arkansas,pistons,19,-0.024022222,2
+122,Colorado,mavericks,19,-0.1784,0.5
+123,Colorado,sixers,370,-0.389669178,0.196721311
+124,District of Columbia,thunder,139,0.207190972,2
+125,Nevada,celtics,346,0.456658088,12.6
+126,New York,pistons,313,0.165644898,2.5
+127,Rhode Island,celtics,202,0.346798276,3.833333333
+128,Washington,wizards,28,-0.077528571,0.75
+129,Arizona,wizards,34,0.078559259,1.25
+130,California,raptors,550,0.066722814,0.967741935
+131,Missouri,warriors,166,0.087207527,1.583333333
+132,Alaska,pacers,28,-0.458788889,0.5
+133,Maine,sixers,22,-0.131725,0.5
+134,Ohio,nuggets,67,0.130676667,1.5
+135,Oklahoma,rockets,676,0.057753641,1.833333333
+136,Pennsylvania,bulls,64,-0.236627273,0.375
+137,Indiana,pelicans,76,0.254877778,20
+138,Ohio,pistons,61,0.217512821,12
+139,California,warriors,1906,0.038319117,1.440217391
+140,District of Columbia,raptors,16,0.014633333,0.5
+141,Idaho,rockets,112,0.074086508,1.333333333
+142,Maryland,lakers,232,0.224561538,3.875
+143,Maryland,pistons,49,0.22337,4
+144,New Jersey,bulls,61,-0.36514,0.111111111
+145,South Carolina,blazers,25,-0.055625,0.333333333
+146,Nebraska,cavaliers,151,0.10482619,1.1
+147,Tennessee,knicks,88,-0.1879375,0.333333333
+148,Texas,hawks,115,0.322285185,3.5
+149,Texas,pelicans,448,0.19445372,4.894736842
+150,Colorado,thunder,169,0.401003571,13
+151,California,rockets,3706,0.082540267,2.06372549
+152,California,thunder,2614,0.392975385,4.164179104
+153,District of Columbia,lakers,70,0.024507407,0.8
+154,Kansas,blazers,52,-0.290475,0.333333333
+155,Georgia,hawks,406,0.235884889,2.947368421
+156,Louisiana,thunder,268,0.107664516,1.384615385
+157,New Jersey,pacers,490,0.165674713,3.461538462
+158,Michigan,rockets,784,0.025178148,1.547169811
+159,Oklahoma,thunder,1459,0.175600066,1.767123288
+160,Texas,spurs,658,0.106662251,3.052631579
+161,Connecticut,rockets,226,0.136333772,2.454545455
+162,Louisiana,warriors,115,0.145790789,3.75
+163,Oklahoma,heat,52,0.089293333,4
+164,Tennessee,kings,103,0.053114286,1.625
+165,Virginia,lakers,94,0.19242963,5
+166,Wisconsin,warriors,112,-0.075759091,0.833333333
+167,Missouri,kings,31,0.1912875,1.666666667
+168,Nevada,blazers,43,0.065033333,2
+169,Utah,spurs,13,-0.323755556,0.5
+170,Indiana,bucks,415,-0.188168889,0.5
+171,Montana,rockets,67,-0.321152381,0.166666667
+172,Virginia,celtics,340,0.402710937,11.8
+173,Wyoming,cavaliers,13,-0.03645,0.5
+174,Oklahoma,pelicans,130,0.165636111,3.8
+175,Wisconsin,pelicans,64,0.054055702,1.375
+176,Ohio,grizzlies,37,-0.063333333,1
+177,Georgia,kings,37,0.07069,1.5
+178,Louisiana,sixers,826,-0.223392272,0.420634921
+179,South Carolina,pacers,214,0.262029167,5
+180,Connecticut,pacers,226,0.191115278,2.428571429
+181,Florida,jazz,133,-0.140934028,0.411764706
+182,New York,knicks,1093,0.075711183,2.164383562
+183,South Carolina,cavaliers,136,0.086116,0.785714286
+184,Georgia,celtics,418,0.29636746,5
+185,Maryland,raptors,46,-0.08395,0.833333333
+186,South Carolina,warriors,28,0.06845,3
+187,Tennessee,celtics,388,0.317713433,3.466666667
+188,Texas,sixers,3568,-0.322722676,0.234234234
+189,Indiana,hawks,16,0.033083333,0.5
+190,Texas,cavaliers,4138,0.055691949,1.286096257
+191,Kansas,hawks,13,-0.17695,0.333333333
+192,Louisiana,celtics,205,0.342685484,14.5
+193,Massachusetts,spurs,28,0.072103333,4
+194,Nevada,pacers,271,0.062325595,1.545454545
+195,Nevada,pistons,58,0.296365,4
+196,Wisconsin,celtics,202,0.170950538,2.875
+197,Alabama,jazz,28,-0.134975,0.5
+198,Arkansas,wizards,7,-0.0998,1
+199,Florida,sixers,1597,-0.257463621,0.266666667
+200,Hawaii,thunder,43,0.3125,3
+201,Kansas,celtics,223,0.103105882,2.4
+202,New Jersey,bucks,595,0.36605,1
+203,New York,spurs,130,-0.053459524,1.333333333
+204,Wisconsin,sixers,445,-0.380400505,0.151162791
+205,Iowa,bulls,7,0.097775,1
+206,Arizona,nuggets,76,0.080690909,1.2
+207,Arkansas,warriors,82,-0.041458333,0.357142857
+208,Colorado,knicks,13,0.073566667,2
+209,Louisiana,kings,25,0.040675,1
+210,Missouri,sixers,544,-0.374847845,0.171717172
+211,New Hampshire,thunder,28,0.298083333,2
+212,North Carolina,celtics,397,0.186375,3.615384615
+213,Georgia,bucks,1153,0.177840476,1.333333333
+214,Illinois,grizzlies,64,-0.0906125,0.333333333
+215,Michigan,celtics,409,0.248662963,3.090909091
+216,Virginia,timberwolves,55,0.0343,1.2
+217,Florida,bulls,169,0.18922381,1.916666667
+218,Georgia,heat,82,0.387421111,14
+219,Nebraska,pacers,58,0.381216667,5
+220,New Hampshire,cavaliers,22,0.23436,1.5
+221,Connecticut,nuggets,31,-0.006291667,1
+222,District of Columbia,knicks,34,0.05897,0.666666667
+223,Kansas,warriors,163,0.03136625,1.222222222
+224,Pennsylvania,celtics,382,0.289869531,4.333333333
+225,Washington,sixers,448,-0.308461974,0.256097561
+226,Wisconsin,nuggets,43,0.150838889,2
+227,Kansas,rockets,481,0.083203184,1.870967742
+228,Kentucky,jazz,154,-0.161690909,0.5
+229,Texas,jazz,328,-0.052225385,0.756756757
+230,Arizona,pacers,319,0.167031731,1.736842105
+231,California,clippers,706,0.31121701,6.157894737
+232,Indiana,warriors,142,0.005360119,1
+233,Massachusetts,bucks,577,0.176825,7
+234,Massachusetts,timberwolves,142,0.157011111,2
+235,North Carolina,pelicans,139,0.13459951,3.25
+236,Oklahoma,bucks,424,0.205307143,6
+237,Indiana,nuggets,448,0.057071549,1.538461538
+238,Missouri,bucks,583,0.144083333,1
+239,Pennsylvania,bucks,1231,0.110554545,1.2
+240,Virginia,pelicans,100,0.139132143,4.6
+241,North Carolina,heat,49,0.211136667,4
+242,Ohio,pelicans,139,0.143704301,2.444444444
+243,Texas,raptors,145,0.2059,4
+244,Arizona,lakers,178,0.227846875,7
+245,Massachusetts,thunder,463,0.242054762,3
+246,New Jersey,lakers,172,0.229883333,3.375
+247,Arizona,blazers,55,-0.301,0.222222222
+248,Arkansas,raptors,10,0.1768,2
+249,Louisiana,pacers,262,0.21776713,2.6
+250,Maryland,pacers,787,0.194290306,3.9
+251,Alabama,pacers,166,0.123694444,2
+252,Florida,hornets,55,0.1734,2
+253,Indiana,celtics,208,0.299748387,3.428571429
+254,Louisiana,rockets,655,0.024800292,1.425531915
+255,Ohio,lakers,211,0.160496,3.166666667
+256,Virginia,hawks,58,0.231932143,1.8
+257,Virginia,hornets,28,0.172266667,2
+258,New Hampshire,raptors,10,-0.253025,1
+259,South Carolina,sixers,370,-0.323300633,0.144927536
+260,Texas,lakers,916,0.138575926,2.461538462
+261,Connecticut,knicks,46,0.043528571,1
+262,District of Columbia,kings,31,0.24125,1.333333333
+263,Georgia,wizards,34,0.0624125,1.666666667
+264,Ohio,knicks,67,0.059366667,1.4
+265,Tennessee,lakers,160,0.1389,2.6
+266,Indiana,pacers,10528,0.027497513,1.519582245
+267,Maine,pelicans,13,0.20815,2
+268,Ohio,jazz,73,-0.104910606,0.833333333
+269,Texas,rockets,13057,0.080951143,1.952506596
+270,Arkansas,lakers,97,0.15046,1.5
+271,Illinois,nuggets,106,-0.035811111,2
+272,Massachusetts,raptors,49,0.314088889,3.5
+273,California,bulls,520,0.183900181,2.833333333
+274,California,hawks,226,0.296557812,5.4
+275,Louisiana,jazz,37,-0.050225,1
+276,Oklahoma,sixers,511,-0.352757944,0.215909091
+277,Utah,pacers,235,0.154517143,3.375
+278,Vermont,cavaliers,31,0.069583333,2
+279,California,suns,64,0.17251,4
+280,New York,wizards,124,-0.156253704,0.8
+281,Oklahoma,knicks,85,0.022883333,1.5
+282,Oklahoma,warriors,172,-0.0334875,0.789473684
+283,Pennsylvania,pacers,811,0.158872549,2.162790698
+284,Tennessee,timberwolves,40,0.090346296,1.25
+285,Utah,warriors,64,-0.023800926,0.636363636
+286,California,sixers,3568,-0.273992891,0.304878049
+287,West Virginia,pacers,118,0.202996429,2.5
+288,Connecticut,pistons,28,0.153078571,2.5
+289,Illinois,lakers,256,0.081749612,1.529411765
+290,Massachusetts,rockets,727,0.078614272,1.5
+291,Tennessee,grizzlies,334,-0.092635753,0.631578947
+292,Connecticut,thunder,133,0.450675641,12
+293,Missouri,jazz,40,-0.25465,0.142857143
+294,Oklahoma,suns,19,-0.067675,0.5
+295,Vermont,sixers,49,-0.339035714,0.166666667
+296,Arizona,spurs,55,0.201843939,4.5
+297,California,knicks,430,0.045511508,1.470588235
+298,Connecticut,pelicans,49,0.248916667,11
+299,New Jersey,rockets,697,0.084082828,1.475
+300,Georgia,warriors,226,0.069255682,1.444444444
+301,Missouri,raptors,13,0.16435,1
+302,New Jersey,raptors,16,0.017116667,2
+303,New Mexico,thunder,64,0.20015,2
+304,Hawaii,celtics,91,0.18724386,3.75
+305,Ohio,kings,91,-0.1791175,0.111111111
+306,Nevada,rockets,421,0.033307073,1.516129032
+307,Texas,warriors,637,0.008222316,1.31372549
+308,Virginia,rockets,523,0.003888519,1.195121951
+309,California,pistons,394,0.142104348,2
+310,Maine,rockets,43,0.007210606,1.2
+311,New Jersey,cavaliers,430,0.03949984,0.88
+312,New York,timberwolves,154,0.244420588,7.5
+313,Kentucky,rockets,421,-0.026748276,1.023255814
+314,Massachusetts,pistons,466,0.088379739,1.684210526
+315,Georgia,pacers,970,0.126346528,2.529411765
+316,Ohio,bulls,190,0.164095679,2.375
+317,Iowa,pistons,13,-0.084,1
+318,Iowa,rockets,73,0.041392593,2
+319,Utah,bucks,298,-0.28604,0.25
+320,District of Columbia,clippers,130,0.137130769,2.714285714
+321,Louisiana,cavaliers,397,0.046994737,0.652173913
+322,Maryland,bulls,61,0.3692,6
+323,Michigan,blazers,109,-0.330690909,0.222222222
+324,New York,kings,88,-0.11365,1
+325,Ohio,blazers,40,-0.243688889,0.285714286
+326,Pennsylvania,lakers,286,0.085632639,1.666666667
+327,Kansas,pelicans,79,0.127865873,4.25
+328,Michigan,nuggets,178,-0.1942,0.166666667
+329,North Carolina,warriors,241,0.126752652,3.4
+330,Connecticut,sixers,343,-0.278515714,0.166666667
+331,Florida,heat,772,0.29829382,5.846153846
+332,Minnesota,cavaliers,316,-0.037242199,0.807692308
+333,New Hampshire,warriors,25,0.30618,4
+334,Texas,grizzlies,16,-0.225041667,1
+335,Illinois,raptors,91,0.198116667,2
+336,North Dakota,sixers,94,-0.250016667,0.235294118
+337,Oregon,spurs,19,-0.0937,2
+338,Rhode Island,cavaliers,43,0.131597917,1.666666667
+339,Florida,lakers,340,0.204783212,4.5
+340,Arizona,pelicans,55,0.208238889,8
+341,Colorado,pistons,73,0.1847875,3.5
+342,North Carolina,jazz,88,-0.291484615,0.625
+343,Oregon,pacers,322,0.239763953,4.375
+344,Tennessee,warriors,73,0.049086111,0.8
+345,Kansas,pacers,289,0.259213636,5.285714286
+346,Mississippi,hawks,25,0.2447,3
+347,Oklahoma,raptors,64,0.245545455,4.5
+348,Florida,nuggets,109,0.00295625,1
+349,Pennsylvania,blazers,67,-0.389428571,0.076923077
+350,Washington,pelicans,103,0.20347931,2.625
+351,California,mavericks,307,0.327672297,6.4
+352,Florida,pelicans,232,0.212389052,7.5
+353,New Mexico,cavaliers,229,0.160068333,1.142857143
+354,West Virginia,cavaliers,79,0.232178889,2.6
+355,Wyoming,rockets,40,0.083009259,1.25
+356,Florida,spurs,31,0.232411111,3.5
+357,Minnesota,pacers,205,0.137833333,2
+358,Wisconsin,cavaliers,646,0.027799153,0.532467532
+359,Missouri,rockets,367,0.070949074,1.842105263
+360,Ohio,sixers,1225,-0.255903285,0.298578199
+361,Oregon,blazers,394,-0.013395029,0.676470588
+362,Oregon,pistons,22,0.205475,5
+363,Oregon,rockets,778,0.102797541,2.175438596
+364,Arkansas,pacers,133,-0.040980208,1
+365,Colorado,lakers,181,0.130153333,4
+366,North Carolina,bucks,874,0.492614286,6
+367,Virginia,spurs,28,0.00545,3
+368,Colorado,heat,34,0.16868,4
+369,Georgia,nuggets,40,0.014566667,0.5
+370,Iowa,lakers,43,-0.005063636,1.75
+371,Mississippi,pelicans,76,0.084586,0.923076923
+372,Nevada,nets,10,-0.08255,1
+373,New Jersey,blazers,34,-0.31519,0.25
+374,Texas,clippers,199,0.28721478,7.833333333
+375,Washington,thunder,322,0.314678148,4
+376,Arizona,jazz,58,-0.1916,0.4
+377,Kansas,timberwolves,91,0.3606,7.333333333
+378,Oklahoma,hawks,109,0.29515,8
+379,Pennsylvania,clippers,124,0.270705,6.5
+380,Utah,cavaliers,379,0.043375,0.571428571
+381,Utah,clippers,25,0.251883333,2
+382,Utah,lakers,55,0.216554545,4.5
+383,California,grizzlies,112,0.011497368,1.714285714
+384,Georgia,cavaliers,754,0.067531155,0.961538462
+385,Iowa,sixers,172,-0.493134884,0.048780488
+386,New Mexico,rockets,166,0.125146717,2.3
+387,Connecticut,bulls,178,-0.16318617,0.807692308
+388,Michigan,cavaliers,649,0.00483978,0.859649123
+389,Washington,cavaliers,508,0.192395128,1.736842105
+390,Maryland,pelicans,64,0.3132,4.333333333
+391,Montana,cavaliers,19,0.008736,1.5
+392,Nebraska,bulls,22,0.3747625,3
+393,Arizona,warriors,91,0.159140741,5
+394,Michigan,bucks,775,0.380063889,8
+395,Minnesota,timberwolves,583,0.275238889,6.333333333
+396,Missouri,celtics,277,0.185332143,2.818181818
+397,Oregon,nuggets,31,0.160663889,2
+398,California,magic,151,0.198265,3
+399,Illinois,thunder,799,0.31913,3.090909091
+400,Pennsylvania,heat,73,0.160733333,1.25
+401,Wisconsin,bucks,2509,0.282756,4
+402,District of Columbia,cavaliers,601,0.125486047,1.263157895
+403,Hawaii,rockets,73,0.098381944,3
+404,Maine,lakers,10,0.148666667,2
+405,Missouri,thunder,289,0.240248438,3
+406,New Jersey,warriors,184,-0.04203625,1.4
+407,Utah,thunder,130,0.397274405,4.6
+408,West Virginia,warriors,28,0.116794444,2
+409,Wisconsin,clippers,79,-0.007286842,1.375
+410,Alabama,warriors,76,-0.14715,0.857142857
+411,Idaho,celtics,16,0.1042375,3
+412,Illinois,bucks,1339,0.254522222,8
+413,Illinois,hawks,61,0.249691667,5
+414,Illinois,mavericks,73,-0.2696,0.166666667
+415,Minnesota,mavericks,100,0.307064062,7
+416,Kansas,nuggets,19,-0.073725,1
+417,Nevada,lakers,154,0.275911111,17
+418,North Carolina,blazers,52,-0.363675,0.111111111
+419,Tennessee,heat,34,-0.026464286,0.75
+420,Virginia,knicks,40,-0.013507143,6
+421,New York,mavericks,310,0.099269136,0.8
+422,Texas,blazers,496,-0.299068889,0.232876712
+423,District of Columbia,warriors,124,0.019123684,1.375
+424,Kentucky,clippers,25,0.1611,4
+425,New Jersey,spurs,49,0.320831944,5
+426,Texas,knicks,190,-0.079880808,0.65
+427,Alaska,cavaliers,13,0.013241667,1
+428,Florida,cavaliers,1501,0.026648009,0.736196319
+429,Florida,thunder,994,0.292504841,2.75
+430,Illinois,wizards,49,0.03486,1.5
+431,New York,cavaliers,1825,0.086033816,1.320895522
+432,South Carolina,lakers,91,0.102305,2.333333333
+433,Iowa,thunder,73,0.262514286,1.333333333
+434,Illinois,heat,103,0.304253125,7
+435,New York,warriors,502,0.110186015,1.636363636
+436,Ohio,raptors,52,-0.228035714,0.4
+437,Massachusetts,pelicans,187,0.212105229,3.25
+438,Pennsylvania,thunder,538,0.341662025,4.266666667
+439,Colorado,celtics,268,0.490530882,16
+440,Indiana,spurs,13,-0.1321125,0.333333333
+441,Pennsylvania,sixers,7171,-0.277936947,0.170254403
+442,California,pacers,2317,0.291979635,5.037735849
+443,Delaware,pacers,43,-0.02788,1.5
+444,South Dakota,sixers,28,-0.0402,1
+445,Texas,bulls,325,0.235732292,3
+446,Virginia,thunder,286,0.434449537,6.2
+447,New York,hawks,325,0.258204054,3.625
+448,South Carolina,kings,22,0.024433333,1
+449,Kansas,pistons,49,0.289658333,11
+450,New Mexico,bucks,97,0.108877778,0.8
+451,North Carolina,spurs,55,-0.23109375,1
+452,Louisiana,pelicans,1045,0.11077297,1.571428571
+453,New York,rockets,2380,0.036373777,1.358974359
+454,Illinois,knicks,112,0.091931818,2.666666667
+455,Michigan,lakers,253,0.213766667,6.2
+456,Nevada,nuggets,19,-0.15355,0.333333333
+457,New York,jazz,190,-0.215043434,0.222222222
+458,Washington,lakers,127,0.05718,2
+459,Oklahoma,spurs,43,0.047516667,1
+460,Pennsylvania,mavericks,31,-0.110471429,0.75
+461,Connecticut,lakers,79,0.173315625,3
+462,Kentucky,pelicans,115,0.124661364,1.75
+463,Michigan,pistons,679,0.000990326,1.166666667
+464,Alabama,sixers,265,-0.292991824,0.23255814
+465,California,blazers,328,-0.263497727,0.257142857
+466,District of Columbia,jazz,40,0.028025,1
+467,Kentucky,bulls,22,0,1
+468,Maryland,hawks,19,0.16311,1.5
+469,Massachusetts,celtics,2533,0.194174084,1.971830986
+470,Minnesota,warriors,52,-0.092218519,0.5
+471,Ohio,rockets,925,-0.078600654,0.75862069
+472,California,bucks,3355,0.159179798,2.3
+473,Florida,rockets,1636,0.111700385,2.095238095
+474,Massachusetts,mavericks,19,0.067925,1
+475,New Jersey,knicks,208,-0.028526471,1.266666667
+476,Wisconsin,bulls,73,0.242744118,2.4
+477,California,nuggets,139,-0.115260714,0.4
+478,Illinois,sixers,1543,-0.293762989,0.223628692
+479,New York,sixers,2275,-0.312658278,0.234972678
+480,Pennsylvania,rockets,1075,0.080984277,1.839285714
+481,Pennsylvania,timberwolves,25,0.142191667,3
+482,Massachusetts,warriors,133,-0.04701625,0.818181818
+483,Missouri,heat,25,0.350466667,2
+484,New York,grizzlies,124,0.193483333,2
+485,Georgia,lakers,241,0.078961111,1.833333333
+486,Minnesota,thunder,217,0.279035366,3.1
+487,Nebraska,warriors,31,0.08216,1.5
+488,New York,nets,289,0.372183333,11
+489,New York,pacers,1870,0.185952011,3.109589041
+490,Tennessee,bucks,430,0.4958,2
+491,Washington,knicks,16,-0.023525,1
+492,Wisconsin,pacers,220,0.088129167,1.285714286
+493,Virginia,bucks,697,-0.330716667,0.5
+494,Oregon,sixers,271,-0.306754839,0.148148148
+495,Arkansas,pelicans,40,0.337660256,12
+496,Colorado,warriors,55,-0.044295455,0.833333333
+497,District of Columbia,celtics,151,0.278981818,6.333333333
+498,Florida,kings,73,-0.090391667,0.2
+499,Illinois,jazz,97,-0.146459167,0.25
+500,Illinois,suns,82,0.184077273,1.75
+501,Nevada,pelicans,52,0.25405,7
+502,North Carolina,sixers,946,-0.326864352,0.213483146
+503,Virginia,bulls,28,0.25112,4
+504,Arkansas,celtics,151,0.239998387,3.428571429
+505,Florida,timberwolves,79,0.261973077,12
+506,Hawaii,sixers,58,-0.317304545,0.375
+507,Washington,celtics,295,0.29539364,4.428571429
+508,Maryland,jazz,64,-0.091654545,1.75
+509,Massachusetts,cavaliers,541,0.069101463,1.512820513
+510,Mississippi,celtics,52,0.334968182,10
+511,New York,celtics,1027,0.299982158,6.037037037
+512,Rhode Island,bulls,85,0.125215909,3.4
+513,Tennessee,sixers,469,-0.335774092,0.21686747
+514,Virginia,cavaliers,529,0.046018561,0.795918367
+515,Arkansas,rockets,247,0.062526531,2.5
+516,Hawaii,cavaliers,244,0.04525303,0.375
+517,Kansas,wizards,34,-0.28106,0.25
+518,Kentucky,cavaliers,436,0.034189863,0.780487805
+519,North Dakota,warriors,7,0.00945,1
+520,Texas,nuggets,124,-0.00325,0.777777778
+521,Alabama,cavaliers,241,0.04855234,0.807692308
+522,Maine,pistons,16,-0.05435,1
+523,Michigan,hawks,34,0.15859375,1.666666667
+524,Maryland,spurs,19,-0.191158333,1
+525,Nevada,knicks,46,0.118444444,3.5
+526,Oklahoma,pacers,475,0.11830502,2.192307692
+527,Texas,mavericks,664,0.095564286,1.8
+528,Illinois,warriors,277,0.157167094,2.25
+529,North Carolina,rockets,1063,0.018900725,1.333333333
+530,Oregon,pelicans,22,-0.07973,0.666666667
+531,Oregon,warriors,109,0.08605,1.571428571
+532,District of Columbia,pistons,28,0.265366667,5
+533,Indiana,rockets,349,0.049333333,1.285714286
+534,Kansas,thunder,385,0.444426836,13.75
+535,Nebraska,sixers,121,-0.339185,0.176470588
+536,Oklahoma,lakers,130,0.044548148,1
+537,South Carolina,jazz,16,0.119025,1
+538,Florida,hawks,160,0.043355263,0.727272727
+539,Kansas,mavericks,40,-0.009925,1
+540,Maryland,wizards,94,-0.113482407,0.636363636
+541,Nevada,kings,28,-0.019316667,1
+542,Tennessee,blazers,28,-0.162433333,0.5
+543,Texas,thunder,2191,0.367122996,5.236842105
+544,Alabama,rockets,364,0.085571895,2.642857143
+545,Kansas,knicks,97,-0.06913,0.875
+546,Massachusetts,bulls,100,0.235108333,3.5
+547,Tennessee,raptors,16,0.16255,2
+548,Texas,bucks,3265,0.090709259,1.25
+549,Arizona,heat,43,0.177071429,2.5
+550,Colorado,timberwolves,25,0.082977778,2
+551,Montana,sixers,34,-0.247283333,0.5
+552,North Carolina,mavericks,43,0.234,3
+553,Washington,bulls,55,-0.1635875,0.6
+554,Florida,clippers,145,0.394192308,12
+555,Georgia,thunder,667,0.366520576,3.764705882
+556,Michigan,thunder,508,0.213809954,1.769230769
+557,New York,hornets,160,-0.135818182,0.375
+558,Tennessee,bulls,52,0.071575,1
+559,Texas,magic,37,0.102814286,2.5
+560,Utah,pistons,16,-0.202013333,0.25
+561,Wisconsin,thunder,172,0.444794048,8.333333333
+562,Connecticut,celtics,115,0.285308696,10.5
+563,Georgia,pistons,82,0.217463889,2.6
+564,Michigan,bulls,40,0.2749,4
+565,North Carolina,clippers,91,0.261944444,5
+566,South Carolina,timberwolves,49,0.238030769,12
+567,New York,heat,214,0.280667262,8.333333333
+568,Ohio,warriors,259,0.04103547,1.166666667
+569,Tennessee,cavaliers,502,0.056499216,0.666666667
+570,Texas,nets,16,0.330175,3
+571,Washington,blazers,85,-0.17467,0.25
+572,Arizona,rockets,388,0.001546222,1.419354839
+573,Arkansas,thunder,139,0.34955,4.5
+574,Colorado,pacers,295,0.058771505,1.384615385
+575,Idaho,cavaliers,112,-0.021490909,0.294117647
+576,Wisconsin,jazz,223,-0.194519394,0.30952381
+577,Florida,pacers,1243,0.202172472,3.341463415
+578,Illinois,clippers,139,0.2774875,15
+579,Kentucky,pacers,295,0.233029487,4.2
+580,Virginia,heat,31,0.407275,3
+581,Massachusetts,sixers,556,-0.283507018,0.291262136
+582,Oklahoma,blazers,76,-0.145583333,0.2
+583,Rhode Island,pacers,55,0.230221429,6
+584,Alabama,celtics,184,0.373805702,8.5
+585,Missouri,bulls,52,0.041061538,1.166666667
+586,Virginia,pistons,55,0.128730769,1.6
+587,Wisconsin,rockets,319,0.035238182,1.619047619
+588,Maryland,cavaliers,457,-0.00331342,0.571428571
+589,Mississippi,sixers,199,-0.367302439,0.28125
+590,New Jersey,clippers,55,0.2848,7
+591,Georgia,pelicans,175,0.176017687,3.083333333
+592,Tennessee,nuggets,52,0.1674875,3
+593,Florida,wizards,70,-0.381023529,0.0625
+594,Idaho,sixers,163,-0.399192636,0.075
+595,Oklahoma,celtics,331,0.352409864,8.8
+596,California,hornets,319,0.129259574,1.043478261
+597,Illinois,celtics,484,0.265984902,5.538461538
+598,Michigan,sixers,514,-0.393258333,0.106382979
+599,Minnesota,sixers,277,-0.336939048,0.166666667
+600,Missouri,clippers,19,0.207625,3
+601,Pennsylvania,hornets,19,0.250722222,2
+602,Iowa,pacers,115,0.189830952,2.5
+603,New Hampshire,celtics,115,0.43205,10.5
+604,Florida,magic,388,-0.066315957,0.382352941
+605,Nebraska,celtics,85,0.184420588,3.25
+606,New Hampshire,pistons,16,0.19484,4
+607,Oklahoma,pistons,49,0.063528571,0.75
+608,Florida,knicks,91,0.172375758,3.4
+609,Nebraska,rockets,52,0.148838095,1.333333333
+610,Ohio,clippers,115,0.387397826,22
+611,Pennsylvania,wizards,28,-0.09274,0.666666667
+612,California,wizards,175,-0.194065,0.428571429
+613,Connecticut,cavaliers,172,0.173257143,2.111111111
+614,Virginia,sixers,544,-0.321679646,0.20212766
+615,Washington,pistons,58,0.056533333,2
+616,Arizona,kings,40,-0.168175,0.2
+617,Illinois,bulls,1267,0.129800717,2.050505051
+618,Iowa,cavaliers,52,0.089006667,1
+619,Minnesota,wizards,7,0.2009,1
+620,South Dakota,cavaliers,19,0,0.5
+621,District of Columbia,pacers,256,0.316340476,6
+622,New York,thunder,1699,0.332775509,4.24
+623,North Carolina,bulls,127,0.211307143,3.666666667
+624,North Carolina,lakers,493,0.186156393,2.842105263
+625,Pennsylvania,grizzlies,22,-0.00283,4
+626,Pennsylvania,pelicans,349,0.176121224,1.648648649
+627,Washington,pacers,292,0.123037398,2.727272727
+628,Kentucky,knicks,19,-0.110566667,0.5
+629,North Carolina,timberwolves,145,0.273007692,7.666666667
+630,Alabama,lakers,112,-0.109239167,0.666666667
+631,California,celtics,1930,0.292987424,5.074074074
+632,Maryland,celtics,358,0.24782,3.4
+633,New York,blazers,151,-0.353918,0.136363636
+634,New York,bulls,361,-0.076675412,0.760869565
+635,North Dakota,cavaliers,19,0,0.5
+636,Oklahoma,grizzlies,73,0.139773077,1.166666667
+637,South Carolina,knicks,22,0.053583333,2
+638,Tennessee,jazz,40,-0.285592857,0.4
+639,Illinois,pelicans,226,0.240869444,5.5
+640,Michigan,pelicans,94,0.198226,2.125
+641,Minnesota,jazz,40,-0.329788889,0.125
+642,New Jersey,pelicans,133,0.206645175,3.222222222
+643,North Carolina,wizards,31,-0.091766667,0.5
+644,California,kings,445,-0.073266919,0.571428571
+645,Virginia,kings,28,-0.08435,0.5
+646,Washington,spurs,160,0.33728366,50
+647,Wisconsin,lakers,109,0.015027778,1.25
+648,Indiana,cavaliers,547,0.140253788,2.055555556
+649,Tennessee,rockets,691,-0.070317961,1.019607843
+650,Colorado,bulls,67,0.473355263,18
+651,Maryland,rockets,820,0.092415079,2.195652174
+652,Ohio,cavaliers,2344,0.127846493,1.615384615
+653,Pennsylvania,raptors,67,-0.221788889,0.285714286
+654,Texas,pistons,205,0.19509,3.545454545
+655,California,lakers,3187,0.171175737,2.351851852
+656,Georgia,knicks,160,0.041098333,1.142857143
+657,Mississippi,lakers,46,0.056318333,1
+658,Missouri,cavaliers,406,0.00646875,0.727272727
+659,Georgia,rockets,955,-0.055065183,0.896103896
+660,Indiana,sixers,442,-0.280220745,0.220779221
+661,Minnesota,pelicans,58,0.2351625,4.333333333
+662,North Carolina,hawks,28,0.10256875,1
+663,Oklahoma,timberwolves,55,-0.0065625,1
+664,Pennsylvania,nuggets,46,-0.0822,0.166666667
+665,Utah,celtics,82,0.377286111,8
+666,California,heat,331,0.209923984,3.1
+667,Colorado,rockets,271,-0.043268217,0.791666667
+668,Tennessee,pelicans,40,0.144011905,6
+669,Texas,celtics,1660,0.29146974,6.078947368
+670,New Mexico,celtics,154,0.354018,11.5
+671,Arizona,bulls,157,0.361067857,6
+672,Maryland,sixers,841,-0.268216963,0.3203125
+673,South Carolina,thunder,250,0.412598,11.5
+674,Texas,heat,109,0.259451852,5
+675,Connecticut,raptors,7,0.13915,1
+676,Kansas,kings,28,-0.04044,0.666666667
+677,Maryland,blazers,58,-0.324125,0.111111111
+678,Florida,celtics,898,0.301074818,4.708333333
+679,Michigan,pacers,529,0.233006713,3.5
+680,Utah,nuggets,25,0.21354,1.5
+681,Florida,blazers,85,-0.047203571,1
+682,Florida,raptors,88,0.195132692,2.25
+683,Missouri,lakers,85,0.168938889,8
+684,North Carolina,cavaliers,688,0.06125507,0.830769231
+685,South Carolina,rockets,352,-0.082143262,0.958333333
+686,Washington,jazz,46,-0.119877778,0.8
+687,Arizona,cavaliers,751,0.116762234,1
+688,Minnesota,celtics,280,0.284759295,3
+689,Mississippi,pacers,145,0.147786667,4
+690,New Jersey,thunder,454,0.226863636,2.235294118
+691,Washington,rockets,481,0.026469213,1.25
+692,Illinois,cavaliers,991,0.114607556,1.205882353
+693,New Jersey,nuggets,40,-0.157335714,0.4
+694,Washington,warriors,94,0.107375758,2.142857143
+695,West Virginia,knicks,28,-0.18541,0.25
+696,New Jersey,celtics,412,0.186566453,1.689655172
+697,New Jersey,kings,34,0.4024,5
+698,Oregon,lakers,67,0.174991667,5
+699,Utah,jazz,301,0.01285628,1.3
+700,West Virginia,bulls,19,-0.008925,1
+701,New Jersey,sixers,1945,-0.345036086,0.141025641
+702,District of Columbia,sixers,259,-0.399408333,0.11627907
+703,Utah,pelicans,19,0.16595,3
+704,Missouri,pacers,358,0.275554651,6.166666667
+705,Ohio,pacers,862,0.182049025,3.7
+706,Oklahoma,bulls,106,0.325645,9
+707,Wisconsin,hawks,70,0.280229412,16
+708,New Hampshire,pacers,46,-0.023171429,2.5
+709,Oklahoma,cavaliers,619,0.108907118,1.133333333
+710,Louisiana,lakers,136,0.152711765,3.25
+711,Massachusetts,lakers,121,-0.067539583,1
+712,Michigan,heat,25,0.0432,2
+713,Mississippi,rockets,235,0.121752315,2.272727273
+714,New York,clippers,235,0.191498148,5.428571429
+715,Kansas,cavaliers,517,0.084336806,0.945945946
+716,Kentucky,timberwolves,28,-0.1064,2
+717,Alabama,thunder,193,0.100044928,2.285714286
+718,District of Columbia,wizards,196,-0.039887222,1
+719,Kansas,bulls,52,-0.05211,1
+720,New York,magic,97,0.22985,2
+721,Michigan,warriors,283,0.377570089,7
+722,Virginia,pacers,454,0.112148718,1.708333333
+723,West Virginia,rockets,181,0.061120635,1.333333333
+724,Arkansas,sixers,244,-0.160060284,0.516129032
+725,California,spurs,145,0.227991358,5.75
+726,Hawaii,warriors,31,-0.0508,1.333333333
+727,Pennsylvania,jazz,67,-0.251495833,0.090909091
+728,Colorado,pelicans,46,0.231285714,1.8
+729,Illinois,pistons,109,0.313540476,9.5
+730,Kentucky,nuggets,37,-0.0296,1
+731,Michigan,jazz,88,0.017142857,1.428571429
+732,Texas,kings,130,-0.137439583,0.2
+733,Georgia,bulls,97,0.147225,3
+734,Massachusetts,knicks,52,0.214488333,9
+735,New York,bucks,1957,0.341345714,6
+736,Kansas,sixers,520,-0.238390167,0.428571429
+737,Kentucky,pistons,31,0.115,2
+738,North Carolina,knicks,55,0.029461111,1.25
+739,Arizona,sixers,457,-0.281570748,0.361111111
+740,Maryland,knicks,79,-0.0186,0.666666667
+741,Mississippi,warriors,31,0.1125,4
+742,Nevada,warriors,79,0.156122549,3.25
+743,New York,nuggets,169,0.010742708,1.285714286
